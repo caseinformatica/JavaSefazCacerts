@@ -14,8 +14,8 @@ public class Main {
     private static final int PORTA = 443;
 
     //ALTERE AQUI PARA GERAR
-    private static final String DESTINO_CACERT = "/Users/usuario/Desktop/cacert";
-    private static final String PASTA_JAVA = "/Users/usuario/.sdkman/candidates/java/current/";
+    private static final String DESTINO_CACERT = "C:\\OptimusBusinessCloud\\ERP\\src\\main\\resources\\nfe\\utilitarios\\cacerts-ks";
+    private static final String PASTA_JAVA = "C:/Users/USER/.jdks/corretto-21.0.4";
 
     //NAO ALTERE ESSA SENHA
     private static final String SENHA_PADRAO_CACERT = "changeit";
